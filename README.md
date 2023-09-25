@@ -1,17 +1,24 @@
-# Data Scientist
+# [Data Scientist](https://github.com/squercia/squercia.github.io/blob/main/README.md#data-scientist)
 
-### Education
+#### [Technical Skills: Python, Git, ERD, Meurise, UML, SQL, MATLAB](https://github.com/squercia/squercia.github.io/blob/main/README.md#technical-skills-python-git-erd-meurise-uml-sql-matlab)
 
-2023 - DataQuest
+## [Education](https://github.com/squercia/squercia.github.io/blob/main/README.md#education)
 
-### Work Experience
+* **Python Machine Learning** | 2023 - DataQuest
+* **Higher Education, Systems Analyst** | 1996-1999 - ICET Cuesmes, Belgium
+* **High School Degree, Mathematics and Sciences** | 1985-1992 - Athénée Royal - Mons, Belgium
 
-2023 - now  :  Machine Learning Specialist
+## [Work Experience](https://github.com/squercia/squercia.github.io/blob/main/README.md#work-experience)
 
-2016 - 2023 : Storage Engineer
+1999 - now : Storage Engineer
 
-### Project
+## [Projects](https://github.com/squercia/squercia.github.io/blob/main/README.md#projects)
 
-September 2023 : Survey Analysis Company Inventory
+### [Profitable App Profiles for the App Store and Google Play Markets](https://github.com/squercia/squercia.github.io/blob/main/README.md##profitable-app-profiles-for-the-app-store-and-google-play-markets)
 
-August 2023    : Guided Project_ Profitable App Profiles for the App Store and Google Play Markets
+**Description**
+
+Aim in this project is to find mobile app profiles that are profitable for the App Store and Google Play markets. This is an important job as data analysts for companies that build Android and iOS mobile apps, and my job was to enable team of developers to make data-driven decisions with respect to the kind of apps they build.
+It's also strategically important for companies to build apps that are free to download and install, and some businesses dedicate their main source of revenue consists of in-app ads. This means that their revenue for any given app is mostly influenced by the number of users that use our app. Therefore my goal for this project was to analyze data to help developers understand what kinds of apps are likely to attract more users.
+
+August 2023    : Profitable App Profiles for the App Store and Google Play Markets
