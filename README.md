@@ -14,7 +14,7 @@
 
 ## [Projects](https://github.com/squercia/squercia.github.io/blob/main/README.md#projects)
 
-### [Profitable App Profiles for the App Store and Google Play Markets](https://github.com/squercia/squercia.github.io/blob/main/README.md##profitable-app-profiles-for-the-app-store-and-google-play-markets)
+### [Profitable App Profiles for the App Store and Google Play Markets](https://github.com/squercia/squercia.github.io/blob/main/README.md#profitable-app-profiles-for-the-app-store-and-google-play-markets)
 
 **Description**
 
