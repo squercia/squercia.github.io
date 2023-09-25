@@ -35,4 +35,4 @@ theme: jekyll-theme-minimal
 # Description
 description: Salvatore Quercia's CV
 
-![self_picture]({{ site.url }}/assets/img/sly.jpg)
+![self picture] (/assets/img/sly.jpg)
