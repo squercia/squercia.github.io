@@ -25,7 +25,7 @@ August 2023    : Profitable App Profiles for the App Store and Google Play Marke
 
 
 
-### [Exploring Hackers News Posts](https://github.com/squercia/squercia.github.io/blob/main/README.md#exploring-hackers-news-posts
+### [Exploring Hackers News Posts](https://github.com/squercia/squercia.github.io/blob/main/README.md#exploring-hackers-news-posts)
 
 In this project I've compared two different types of posts from  [Hacker News](https://news.ycombinator.com/), a popular site where technology related stories (or 'posts') are voted and commented upon. 
 
